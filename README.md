@@ -2,7 +2,7 @@
 
 ![Project Image](https://braydonwang.github.io/csclub.png)
 
-> These are all of the presentations, problems and solutions that I created as a senior executive of the contest group of my high school's computer science club.
+> These are all of my weekly resources for the contest group of the CS club
 
 ---
 
