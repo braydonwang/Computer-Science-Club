@@ -13,11 +13,9 @@ To easily navigate through all of the different sections
     - [Presentation](https://github.com/braydonwang/Computer-Science-Club/tree/main/01-dmoj-and-sorting/Presentation)
     - [Solutions](https://github.com/braydonwang/Computer-Science-Club/tree/main/01-dmoj-and-sorting/Solutions)
 
-
 - [Week2: Prefix Sums and Difference Arrays](https://github.com/braydonwang/Computer-Science-Club/tree/main/02-prefixsum-and-difference-array)
     - [Presentation](https://github.com/braydonwang/Computer-Science-Club/tree/main/02-prefixsum-and-difference-array/Presentation)
     - [Solutions](https://github.com/braydonwang/Computer-Science-Club/tree/main/02-prefixsum-and-difference-array/Solutions)
-
 
 - [Week3: Binary Search](https://github.com/braydonwang/Computer-Science-Club/tree/main/03-binary-search)
     - [Presentation](https://github.com/braydonwang/Computer-Science-Club/tree/main/03-binary-search/Presentation)
