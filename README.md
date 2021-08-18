@@ -9,21 +9,77 @@
 ### Table of Contents
 To easily navigate through all of the different sections
 
-- [Week1](https://github.com/braydonwang/MachineLearningBootcamp2021/tree/main/Week1)
-    - [Imports](https://github.com/braydonwang/MachineLearningBootcamp2021/tree/main/Week1/Imports)
-    - [Presentations](https://github.com/braydonwang/MachineLearningBootcamp2021/tree/main/Week1/Presentations)
-- [Week2](https://github.com/braydonwang/MachineLearningBootcamp2021/tree/main/Week2)
-    - [Imports](https://github.com/braydonwang/MachineLearningBootcamp2021/tree/main/Week2/Imports)
-    - [Presentations](https://github.com/braydonwang/MachineLearningBootcamp2021/tree/main/Week2/Presentations)
-- [Week3](https://github.com/braydonwang/MachineLearningBootcamp2021/tree/main/Week3)
-    - [Imports](https://github.com/braydonwang/MachineLearningBootcamp2021/tree/main/Week3/Imports)
-    - [Presentations](https://github.com/braydonwang/MachineLearningBootcamp2021/tree/main/Week3/Presentations)
-- [Week4](https://github.com/braydonwang/MachineLearningBootcamp2021/tree/main/Week4)
-    - [Imports](https://github.com/braydonwang/MachineLearningBootcamp2021/tree/main/Week4/Imports)
-    - [Presentations](https://github.com/braydonwang/MachineLearningBootcamp2021/tree/main/Week4/Presentations)
-- [Week5](https://github.com/braydonwang/MachineLearningBootcamp2021/tree/main/Week5)
-    - [Imports](https://github.com/braydonwang/MachineLearningBootcamp2021/tree/main/Week5/Imports)
-    - [Presentations](https://github.com/braydonwang/MachineLearningBootcamp2021/tree/main/Week5/Presentations)
+- [Week1: Introduction to DMOJ and Sorting](https://github.com/braydonwang/Computer-Science-Club/tree/main/01-dmoj-and-sorting)
+    - [Presentation](https://github.com/braydonwang/Computer-Science-Club/tree/main/01-dmoj-and-sorting/Presentation)
+    - [Solutions](https://github.com/braydonwang/Computer-Science-Club/tree/main/01-dmoj-and-sorting/Solutions)
+
+
+- [Week2: Prefix Sums and Difference Arrays](https://github.com/braydonwang/Computer-Science-Club/tree/main/02-prefixsum-and-difference-array)
+    - [Presentation](https://github.com/braydonwang/Computer-Science-Club/tree/main/02-prefixsum-and-difference-array/Presentation)
+    - [Solutions](https://github.com/braydonwang/Computer-Science-Club/tree/main/02-prefixsum-and-difference-array/Solutions)
+
+
+- [Week3: Binary Search](https://github.com/braydonwang/Computer-Science-Club/tree/main/03-binary-search)
+    - [Presentation](https://github.com/braydonwang/Computer-Science-Club/tree/main/03-binary-search/Presentation)
+    - [Solutions](https://github.com/braydonwang/Computer-Science-Club/tree/main/03-binary-search/Solutions)
+
+
+- [Week4: Modulos](https://github.com/braydonwang/Computer-Science-Club/tree/main/04-modulos)
+    - [Presentation](https://github.com/braydonwang/Computer-Science-Club/tree/main/04-modulos/Presentation)
+    - [Solutions](https://github.com/braydonwang/Computer-Science-Club/tree/main/04-modulos/Solutions)
+
+
+- [Week5: Stacks and Queues](https://github.com/braydonwang/Computer-Science-Club/tree/main/05-stacks-and-queues)
+    - [Presentation](https://github.com/braydonwang/Computer-Science-Club/tree/main/05-stacks-and-queues/Presentation)
+    - [Solutions](https://github.com/braydonwang/Computer-Science-Club/tree/main/05-stacks-and-queues/Solutions)
+
+- [Week6: Recursion](https://github.com/braydonwang/Computer-Science-Club/tree/main/06-recursion)
+    - [Presentation](https://github.com/braydonwang/Computer-Science-Club/tree/main/06-recursion/Presentation)
+    - [Solutions](https://github.com/braydonwang/Computer-Science-Club/tree/main/06-recursion/Solutions)
+
+- [Week7: Introduction to Graph Theory and DFS](https://github.com/braydonwang/Computer-Science-Club/tree/main/07-depth-first-search)
+    - [Presentation](https://github.com/braydonwang/Computer-Science-Club/tree/main/07-depth-first-search/Presentation)
+    - [Solutions](https://github.com/braydonwang/Computer-Science-Club/tree/main/07-depth-first-search/Solutions)
+
+- [Week8: Graph Theory Involving Grids](https://github.com/braydonwang/Computer-Science-Club/tree/main/08-grids-graph-theory)
+    - [Presentation](https://github.com/braydonwang/Computer-Science-Club/tree/main/08-grids-graph-theory/Presentation)
+    - [Solutions](https://github.com/braydonwang/Computer-Science-Club/tree/main/08-grids-graph-theory/Solutions)
+
+- [Week9: Introduction to Trees](https://github.com/braydonwang/Computer-Science-Club/tree/main/09-trees)
+    - [Presentation](https://github.com/braydonwang/Computer-Science-Club/tree/main/09-trees/Presentation)
+    - [Solutions](https://github.com/braydonwang/Computer-Science-Club/tree/main/09-trees/Solutions)
+
+- [Week10: Djikstra](https://github.com/braydonwang/Computer-Science-Club/tree/main/10-djikstra)
+    - [Presentation](https://github.com/braydonwang/Computer-Science-Club/tree/main/10-djikstra/Presentation)
+    - [Solutions](https://github.com/braydonwang/Computer-Science-Club/tree/main/10-djikstra/Solutions)
+
+- [Week11: Preparation for CCC](https://github.com/braydonwang/Computer-Science-Club/tree/main/11-ccc-preparation)
+    - [Presentation](https://github.com/braydonwang/Computer-Science-Club/tree/main/11-ccc-preparation/Presentation)
+    - [Solutions](https://github.com/braydonwang/Computer-Science-Club/tree/main/11-ccc-preparation/Solutions)
+
+- [Week12: Dynamic Programming](https://github.com/braydonwang/Computer-Science-Club/tree/main/12-dynamic-programming)
+    - [Presentation](https://github.com/braydonwang/Computer-Science-Club/tree/main/12-dynamic-programming/Presentation)
+    - [Solutions](https://github.com/braydonwang/Computer-Science-Club/tree/main/12-dynamic-programming/Solutions)
+
+- [Week13: Segment Trees](https://github.com/braydonwang/Computer-Science-Club/tree/main/13-segment-trees)
+    - [Presentation](https://github.com/braydonwang/Computer-Science-Club/tree/main/13-segment-trees/Presentation)
+    - [Solutions](https://github.com/braydonwang/Computer-Science-Club/tree/main/13-segment-trees/Solutions)
+
+- [Week14: Bellman Ford and Floyd Warshall](https://github.com/braydonwang/Computer-Science-Club/tree/main/14-bellman-ford-and-floyd-warshall)
+    - [Presentation](https://github.com/braydonwang/Computer-Science-Club/tree/main/14-bellman-ford-and-floyd-warshall/Presentation)
+    - [Solutions](https://github.com/braydonwang/Computer-Science-Club/tree/main/14-bellman-ford-and-floyd-warshall/Solutions)
+
+- [Week15: Combinatorics](https://github.com/braydonwang/Computer-Science-Club/tree/main/15-combinatorics)
+    - [Presentation](https://github.com/braydonwang/Computer-Science-Club/tree/main/15-combinatorics/Presentation)
+    - [Solutions](https://github.com/braydonwang/Computer-Science-Club/tree/main/15-combinatorics/Solutions)
+
+- [Week16: Introduction to Binary and Bitmasks](https://github.com/braydonwang/Computer-Science-Club/tree/main/16-bitmasks)
+    - [Presentation](https://github.com/braydonwang/Computer-Science-Club/tree/main/16-bitmasks/Presentation)
+    - [Solutions](https://github.com/braydonwang/Computer-Science-Club/tree/main/16-bitmasks/Solutions)
+
+- [Week17: Balanced Binary Trees](https://github.com/braydonwang/Computer-Science-Club/tree/main/17-balanced-binary-trees)
+    - [Presentation](https://github.com/braydonwang/Computer-Science-Club/tree/main/17-balanced-binary-trees/Presentation)
+    - [Solutions](https://github.com/braydonwang/Computer-Science-Club/tree/main/17-balanced-binary-trees/Solutions)
 
 ---
 
